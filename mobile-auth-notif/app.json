@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "mobile-auth-notif",
+    "slug": "mobile-auth-notif",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "mobile-auth-notif",
+    "plugins": [
+      "expo-router",
+      "expo-notifications",
+      "expo-secure-store",
+      "expo-asset",
+      "expo-font"
+    ],
+    "android": {
+      "package": "id.ac.uinsa.mobileauthnotif"
+    },
+    "extra": {
+      "eas": {
+        "projectId": ""
+      }
+    }
+  }
+}

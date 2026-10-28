@@ -1,0 +1,11 @@
+.env
+node_modules/
+.expo/
+*.backup
+dist/
+build/
+*.log
+.vs/
+.idea/
+*.jks
+*.keystore
